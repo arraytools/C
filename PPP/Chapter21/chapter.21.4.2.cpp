@@ -5,7 +5,7 @@
 //
 
 #include "std_lib_facilities.h"
-
+#include <string.h>
 //------------------------------------------------------------------------------
 
 struct Record {
